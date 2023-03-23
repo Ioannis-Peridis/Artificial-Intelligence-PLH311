@@ -5,4 +5,4 @@ with professor : Georgios Chalkiadakis
 
 from: Techincal University Of Crete
 
-Implementation in python and C: Exercises in Artificial Intelligence and Optimal Path Founder(a-b pruning) and CHESS Competition (Monte Carlo Tree search)
+Implementation in python and C:Optimal Path, Weighted A*, IDA*, Heuristics, Euclidian Distance ,Manhatan Distance,TUC-CHESS game, minimax, a-b pruning, Monte Carlo Tree Search and Exercises in Artificial Intelligence 
